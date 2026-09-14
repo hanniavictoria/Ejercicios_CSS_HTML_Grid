@@ -10,6 +10,6 @@ Ejercicios de practica: Lógica de programación CSS y HTML utilizando Grid.
 
 ## Tecnologías Utilizadas
 
--HTML
--CSS
--GRID
+- HTML
+- CSS
+- GRID
