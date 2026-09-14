@@ -1,0 +1,22 @@
+.contenedor3{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 15px;
+
+}
+
+.caja{
+    padding: 20px;
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgb(204, 83, 69);
+    color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    
+}
+
+.caja:hover{
+    background-color: rgb(158, 139, 201);
+}

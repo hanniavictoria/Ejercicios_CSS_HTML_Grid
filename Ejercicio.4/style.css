@@ -1,0 +1,21 @@
+.contenedor4{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 15px;
+}
+
+.caja, .cajaD, .caja4{
+    padding: 20px;
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgb(15, 146, 85);
+    color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    
+}
+
+.cajaD, .caja4{
+    grid-column: span 2;
+}
