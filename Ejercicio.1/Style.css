@@ -1,0 +1,15 @@
+.contenedor1{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 30px;
+}
+
+.contenedor1 div{
+    background-color: rgb(73, 5, 31);
+    color: white;
+    padding: 25px;
+    text-align: center;
+    border-radius: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
